@@ -68,7 +68,7 @@ Together you get:
 - **Original qb-banking** — [QBCore Framework](https://github.com/qbcore-framework/qb-banking) (GPL-3.0)
 - **UI/UX redesign** — this fork
 - **Bank of America brand assets** — © Bank of America Corporation, used here for non-commercial fan/mod purposes only
-- **Recommended MLO** — [shotbyuno](https://mrhunter.tebex.io/package/5063501)
+- **Recommended MLO** — [MrHunter](https://mrhunter.tebex.io/package/5063501)
 
 ## License
 
@@ -76,7 +76,7 @@ Released under **GPL-3.0**, inheriting from upstream qb-banking. See [LICENSE](L
 
 ```
 QBCore Framework
-Copyright (C) 2021 Joshua Eger
+Copyright (C) 2026 shotbyuno
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
