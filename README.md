@@ -56,7 +56,7 @@ No config edits needed. No client-side changes. No database migrations.
 
 For a fully-themed Bank of America experience pair this resource with:
 
-- **[MrHunter · Bank of America MLO](https://mrhunter.tebex.io/package/5063501)** by **shotbyuno** — Bank of America branded interior + ATM exteriors that match this UI's branding.
+- **[MrHunter · Bank of America MLO](https://mrhunter.tebex.io/package/5063501)** by **MrHunter** — Bank of America branded interior + ATM exteriors that match this UI's branding.
 
 Together you get:
 - Branded exterior signage and ATM kiosks (MLO)
