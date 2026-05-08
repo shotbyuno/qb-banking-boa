@@ -2,7 +2,7 @@
 
 A complete UI/UX redesign of [qb-banking](https://github.com/qbcore-framework/qb-banking) themed around **Bank of America**. Drop-in replacement — all backend logic, NUI callbacks, and database schemas are preserved exactly. Only the frontend (`html/`) was rewritten.
 
-> **Pairs perfectly with** [**MrHunter · Bank of America MLO**](https://mrhunter.tebex.io/package/5063501) by **shotbyuno** — drop the MLO into your map and this UI on top of qb-banking for a fully-themed banking experience.
+> **Pairs perfectly with** [**MrHunter · Bank of America MLO**](https://mrhunter.tebex.io/package/5063501) by **MrHunter** — drop the MLO into your map and this UI on top of qb-banking for a fully-themed banking experience.
 
 ---
 
